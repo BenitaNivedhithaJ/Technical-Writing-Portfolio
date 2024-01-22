@@ -135,9 +135,9 @@ To create a video post,
       *    **Upload image**: Select an image to upload for the thumbnail image.
       *    **Choose from video**: Choose a still from the video to set as thumbnail image.
 
- * **Add Captions**
+    * **Add Captions**
   
-   Select the **Upload captions** dropdown and click the **Upload** button to upload the caption files from your device.
+        Select the **Upload captions** dropdown and click the **Upload** button to upload the caption files from your device.
 7.   Select **Save**.
 8.   Select **Post**.
 
