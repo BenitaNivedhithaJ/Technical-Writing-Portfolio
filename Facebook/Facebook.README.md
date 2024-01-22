@@ -150,7 +150,7 @@ To create a GIF post,
 3. Select ![gif](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/GIf.png).
 4. In the Choose a GIF screen, select a GIF from the GIFs provided or select a GIF that appears from the search result.
   ![GIF image](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/GIF%20image.png)
-1. In the **What’s on your mind **field, type text to add a title to your post.
+1. In the **What’s on your mind** field, type text to add a title to your post.
 2. Select **Post**.
 
 Now, people can view your GIF post.
