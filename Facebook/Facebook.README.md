@@ -94,10 +94,10 @@ To create a photo post,
 3. Select ![image](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/PhotoVideo.png) to display the **Add Photos/Videos** section.
 4. Click the **Add Photos/Videos** section to browse your device to add photos.
 
-  ![Add photos/videos](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Add%20photos%20or%20videos.png)
+    ![Add photos/videos](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Add%20photos%20or%20videos.png)
 
 5. To add photos from your mobile, select **Add** beside **Add photos and videos from your mobile device**.
-  ![Photo post](Facebook/Images/Photo post.png)
+    ![Photo post](Facebook/Images/Photo post.png)
 1. Select **Edit** to edit the photos that you selected.
    
    Use the following editing options to edit the photos you add: 
