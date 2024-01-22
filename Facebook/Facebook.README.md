@@ -82,7 +82,7 @@ To create a text post,
 1. In the **Create post** screen, type text in the **What’s on your mind** field.
 2. (Optional) Select ![emoji](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Emoji.png) to add emojis to you text post.
 3. (Optional) Select ![Aa](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Aa.png) to add a background to your text post.
-![TExt Post](Facebook/Images/Create text post.png)
+  ![TExt Post](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Create%20text%20post.png)
 4. Select **Post**.
 
 Now, you have posted a text post.
@@ -94,10 +94,10 @@ To create a photo post,
 3. Select ![image](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/PhotoVideo.png) to display the **Add Photos/Videos** section.
 4. Click the **Add Photos/Videos** section to browse your device to add photos.
 
-![Add photos/videos](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Add%20photos%20or%20videos.png)
+  ![Add photos/videos](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Add%20photos%20or%20videos.png)
 
 5. To add photos from your mobile, select **Add** beside **Add photos and videos from your mobile device**.
-![Photo post](Facebook/Images/Photo post.png)
+  ![Photo post](Facebook/Images/Photo post.png)
 1. Select **Edit** to edit the photos that you selected.
    
    Use the following editing options to edit the photos you add: 
@@ -122,7 +122,7 @@ To create a video post,
 4. Click the **Add Photos/Videos** section to add videos from your device to the post.
 5. (Optional) To add videos from your mobile, select the **Add** button beside **Add photos and videos from your mobile device**.
 
-![video screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Video%20Post.png)
+  ![video screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Video%20Post.png)
 
 1. Select the **Edit** option to edit the videos that you selected.
 
@@ -149,7 +149,7 @@ To create a GIF post,
 2. Select the ![Emoji](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Emoji.png) icon to add emojis to you text post.
 3. Select ![gif](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/GIf.png).
 4. In the Choose a GIF screen, select a GIF from the GIFs provided or select a GIF that appears from the search result.
-![GIF image](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/GIF%20image.png)
+  ![GIF image](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/GIF%20image.png)
 1. In the **What’s on your mind **field, type text to add a title to your post.
 2. Select **Post**.
 
