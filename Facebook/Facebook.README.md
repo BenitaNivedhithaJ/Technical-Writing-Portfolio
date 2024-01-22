@@ -27,7 +27,7 @@ The Post feature lets you share your thoughts with your facebook audience. Faceb
 
 With the Post feature, you can create different types of posts such as text, photo, video, GIF, live video, feeling/activity, check in, life events, and tag people.
 
-![Post types](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Post%20types.png))
+![Post types](Facebook/Images/Post types.png)
 
 
  Types | Purpose
@@ -57,11 +57,11 @@ Perform the steps below to set the privacy settings for your post.
 1. In the menu, select **Post** to display the **Create post** screen.
    
    
-   ![Create Post screen](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Create%20post%20screen.png)
+   ![Create Post screen](Facebook/Images/Create post screen.png)
 2. Select the Privacy Settings dropdown below your profile name to choose an option.
 
     The Post Audience dialogue box is displayed.
-    ![Privacy Settings](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Privacy%20settings.png)
+    ![Privacy Settings](Facebook/Images/Privacy settings.png)
 
 3. In the **Post Audience** dialogue box, choose one of the following options:
 
@@ -80,9 +80,9 @@ You have set the privacy settings for your post.
 
 To create a text post,
 1. In the **Create post** screen, type text in the **What’s on your mind** field.
-2. (Optional) Select ![emoji](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Emoji.png) to add emojis to you text post.
-3. (Optional) Select ![Aa](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Aa.png) to add a background to your text post.
-![TEct Post](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Create%20text%20post.png)
+2. (Optional) Select ![emoji](Facebook/Images/Emoji.png) to add emojis to you text post.
+3. (Optional) Select ![Aa](Facebook/Images/Aa.png) to add a background to your text post.
+![TEct Post](Facebook/Images/Create text post.png)
 4. Select **Post**.
 
 Now, you have posted a text post.
@@ -90,14 +90,14 @@ Now, you have posted a text post.
 ## Create a Photo Post
 To create a photo post,
 1. In the Create post screen, type the text in the **What’s on your mind** field.
-2. (Optional)Select ![emoji](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Emoji.png) to add emojis to you text post.
-3. Select ![image](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/PhotoVideo.png) to display the **Add Photos/Videos** section.
+2. (Optional)Select ![emoji](Facebook/Images/Emoji.png) to add emojis to you text post.
+3. Select ![image](Facebook/Images/PhotoVideo.png) to display the **Add Photos/Videos** section.
 4. Click the **Add Photos/Videos** section to browse your device to add photos.
 
-![Add photos/videos](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Add%20photos%20or%20videos.png)
+![Add photos/videos](Facebook/Images/Add photos or videos.png)
 
 5. To add photos from your mobile, select **Add** beside **Add photos and videos from your mobile device**.
-![Photo post](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Photo%20post.png)
+![Photo post](Facebook/Images/Photo post.png)
 1. Select **Edit** to edit the photos that you selected.
    
    Use the following editing options to edit the photos you add: 
@@ -117,12 +117,12 @@ Your photo post is visible for othes to view.
 ## Create a Video Post
 To create a video post,
 1. In the **Create post** screen, type the text in the **What’s on your mind** field.
-2. (Optional) Select ![emoji](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Emoji.png) to add emojis to you text post.
-3. Select ![Video](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/PhotoVideo.png). The **Add Photos/Videos** section appears.
+2. (Optional) Select ![emoji](Facebook/Images/Emoji.png) to add emojis to you text post.
+3. Select ![Video](Facebook/Images/PhotoVideo.png). The **Add Photos/Videos** section appears.
 4. Click the **Add Photos/Videos** section to add videos from your device to the post.
 5. (Optional) To add videos from your mobile, select the **Add** button beside **Add photos and videos from your mobile device**.
 
-![video screen](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Video%20Post.png)
+![video screen](Facebook/Images/Video Post.png)
 
 1. Select the **Edit** option to edit the videos that you selected.
 
@@ -132,12 +132,12 @@ To create a video post,
   
         In the **Change Thumbnail** dropdown, select an option from the following:
         *    **Choose suggested**: Choose a thumbnail image from the images provided by Facebook.
-      *    **Upload image**: Select an image to upload for the thumbnail image.
-      *    **Choose from video**: Choose a still from the video to set as thumbnail image.
+        *    **Upload image**: Select an image to upload for the thumbnail image.
+        *    **Choose from video**: Choose a still from the video to set as thumbnail image.
 
- * **Add Captions**
+    * **Add Captions**
   
-   Select the **Upload captions** dropdown and click the **Upload** button to upload the caption files from your device.
+       Select the **Upload captions** dropdown and click the **Upload** button to upload the caption files from your device.
 7.   Select **Save**.
 8.   Select **Post**.
 
@@ -146,10 +146,10 @@ Now, you have shared your video post that you created.
 ## Create a GIF post
 To create a GIF post, 
 1. In the **Create post** screen, type the text in the **What’s on your mind** field.
-2. Select the ![Emoji](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Emoji.png) icon to add emojis to you text post.
-3. Select ![gif](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/GIf.png).
+2. Select the ![Emoji](Facebook/Images/Emoji.png) icon to add emojis to you text post.
+3. Select ![gif](Facebook/Images/GIf.png).
 4. In the Choose a GIF screen, select a GIF from the GIFs provided or select a GIF that appears from the search result.
-![GIF image](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/GIF%20image.png)
+![GIF image](Facebook/Images/GIF image.png)
 1. In the **What’s on your mind **field, type text to add a title to your post.
 2. Select **Post**.
 
@@ -157,7 +157,7 @@ Now, people can view your GIF post.
 
 ## Create a Live Video
 To create a live video, 
-1. Select ![live video](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Live%20video.png).
+1. Select ![live video](Facebook/Images/Live video.png).
 2. In the **Create live video** screen, you can go live or create a live video event.
 3. Select **Go Live**.
 
@@ -165,7 +165,7 @@ For more details on how to go live refer to the **Using the Go Live** section in
 
 ## Create a Feeling/Activities Post
 To create a feeling/activities post,
-1. Select ![image](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Feeling%20orActivities.png).
+1. Select ![image](Facebook/Images/Feeling orActivities.png).
 2. In the **How you are feeling** screen, you can see  **Feelings** and **Activities** sections.
 3. In the Feelings section, choose a feeling from the list provided. Type in the search box to find a feeling.
 4. In the **Activities** section, you can find the categories mentioned in the following table:
@@ -191,7 +191,7 @@ Now, people can view your feeling or activities post that you posted.
 
 ## Create a Check in Post
 To create a Check in post,
-1. Select ![check in](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Check%20in.png).
+1. Select ![check in](Facebook/Images/Check in.png).
 2. In the **Search for location** dialogue box, select the place you are at from the list. Or type in the **Where are you?** field.
 3. Select the place to add it to the post.
 4. Select **Post**.
@@ -201,7 +201,7 @@ Your checkin post is posted.
 
 To craete a life event post,
 
-1. Select   ![Life event](c:/Users/leona/OneDrive/Documents/Benita/Github%20TWT/Technical-Writing-Portfolio/Facebook/Images/Life%20event%20icon.png).
+1. Select   ![Life event](Facebook/Images/Life event icon.png).
 2. In the **Create life event** screen, select a category and a title for your life event. 
 
    The following categories are displayed in the **Create life event** screen:
