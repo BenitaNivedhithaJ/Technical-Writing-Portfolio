@@ -122,9 +122,9 @@ To create a video post,
 4. Click the **Add Photos/Videos** section to add videos from your device to the post.
 5. (Optional) To add videos from your mobile, select the **Add** button beside **Add photos and videos from your mobile device**.
 
-  ![video screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Video%20Post.png)
+    ![video screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Video%20Post.png)
 
-1. Select the **Edit** option to edit the videos that you selected.
+6. Select the **Edit** option to edit the videos that you selected.
 
     Use the following editing options to edit the videos you add:
 
