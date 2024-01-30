@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pkq_q3m_tzb">
+    <title>Create a Facebook account</title>
+    <taskbody>
+        <context>
+            <p>You need an account to use the Facebook web application for the first time.</p>
+            <p>To create an account,</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the Facebook login page, select <b>Create new account</b> to display the
+                        <b>Sign Up</b> dialogue box.<image placement="break"
+                        href="Signup%20screen.png" scale="60" align="left" id="image_ozn_414_tzb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>In the <b>Sign Up</b> dialogue box, enter the following details:</cmd>
+                <info>
+                    <ul id="ul_ess_lkm_tzb">
+                        <li><b>First name</b>: Enter your first name.</li>
+                        <li><b>Surname</b>: Enter your surname.</li>
+                        <li><b>Mobile number or email address</b>: Enter your mobile number or email
+                            address.</li>
+                        <li><b>New password</b>: Enter a password.</li>
+                        <li><b>Date of birth</b>: Enter your date of birth using the date, month,
+                            and year dropdown.</li>
+                        <li><b>Gender</b>: Select an option from <b>Female</b>, <b>Male</b>, and
+                                <b>Custom</b>. If you select <b>Custom</b>, select an option from
+                            the <b>Select your pronoun </b>dropdown and enter your gender.<image
+                                placement="break" href="Select%20Pronoun.png" scale="80"
+                                align="left" id="image_bmf_m14_tzb"/><note id="note_v32_llm_tzb"
+                                type="note">Entering your gender in the <b>Gender</b> field is
+                                optional.</note></li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Select <b>Sign up</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the code sent in the confirmation dialogue box to confirm your email
+                    address or mobile number.</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) Select the <b>Send Email Again</b> option if you did not receive the
+                    code the first time.</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) Select <b>Send Message Again</b> if you entered your mobile
+                    number.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Continue</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Instead, if you want to update the contact information, perform the following
+                    steps:</cmd>
+                <info>
+                    <ol id="ol_j1g_vmm_tzb">
+                        <li>Click <b>Update Contact Info</b>.</li>
+                        <li>In the <b>Add email address or mobile number</b> dialogue box, enter
+                            your email address or phone number. <image placement="break"
+                                href="Screenshot%202023-11-10%20112925.png" scale="60" align="left"
+                                id="image_ewj_qb4_tzb"/></li>
+                        <li>Click <b>Add</b>.<p dir="ltr">Now, you can verify using the email
+                                address or phone number that you recently added.</p></li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>In the <b>Account confirmed</b> dialogue box, click <b>Ok</b>. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

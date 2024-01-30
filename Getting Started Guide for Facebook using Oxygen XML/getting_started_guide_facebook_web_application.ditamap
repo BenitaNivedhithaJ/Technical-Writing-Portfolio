@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Getting Started Guide for Facebook Web Application</title>
+    <topicref href="Get_Started_Intorduction.dita">
+        <topicref href="Create_a_Facebook_account.dita"/>
+        <topicref href="setup_account.dita"/>
+    </topicref>
+</map>

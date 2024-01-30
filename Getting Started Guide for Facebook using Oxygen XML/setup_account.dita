@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="setup_account">
+    <title>Set up your account</title>
+    <taskbody>
+        <context>
+            <p>You need to perform some actions to keep your account updated and let others find you
+                on Facebook. </p>
+            <p>To set up your account,</p>
+            <ol id="ol_mr2_lpm_tzb">
+                <li dir="ltr">
+                    <p dir="ltr">On the left pane of the Facebook homepage, select your name.</p>
+                </li>
+                <li>In your profile screen, select <b>Edit profile</b> to display the <b>Edit
+                        profile</b> screen.<image placement="break"
+                        href="Edit%20profile%20screen.png" align="left" id="image_nwq_cqm_tzb"
+                    /></li>
+                <li>In the <b>Edit profile</b> screen, you can perform the following tasks:<ul
+                        id="ul_ps5_2qm_tzb">
+                        <li>Add your profile picture.</li>
+                        <li>Add your cover photo.</li>
+                        <li>Create your avatar.</li>
+                        <li>Add your biography.</li>
+                        <li>Add your introduction.</li>
+                        <li>Add your hobbies.</li>
+                        <li>Feature your favourite photos and stories.</li>
+                    </ul></li>
+                <li>Click  <b>Edit your About info </b>to add information about you such as
+                    workplace, school, college, hometown, and relationship status.<image
+                        placement="break" href="About%20your%20info.png" scale="60" align="left"
+                        id="image_tmc_s14_tzb"/>Add details about you in each section as mentioned
+                    in the table below.<table frame="all" id="table_xhl_qrm_tzb" colsep="1"
+                        rowsep="1">
+                        <title>Edit About Info</title>
+                        <tgroup cols="3" align="center">
+                            <colspec colname="c1" colnum="1" colwidth="1*" colsep="1" rowsep="1"
+                                align="center"/>
+                            <colspec colname="c2" colnum="2" colwidth="1.81*"/>
+                            <colspec colname="c3" colnum="3" colwidth="2.9*" align="left" colsep="1"
+                                rowsep="1"/>
+                            <tbody>
+                                <row valign="middle">
+                                    <entry align="center"><b>S. No</b></entry>
+                                    <entry align="center" valign="middle"><b>Sections</b></entry>
+                                    <entry align="center" valign="middle"><b>Details</b></entry>
+                                </row>
+                                <row valign="middle">
+                                    <entry align="center" valign="middle">1.</entry>
+                                    <entry align="center" valign="middle">Overview</entry>
+                                    <entry align="left" valign="middle">
+                                        <ul id="ul_mt3_srm_tzb">
+                                            <li>Add a workplace</li>
+                                            <li>Add high school</li>
+                                            <li>Add college</li>
+                                            <li>Add current city</li>
+                                            <li>Add hometown</li>
+                                            <li>Add a relationship status</li>
+                                        </ul>
+                                    </entry>
+                                </row>
+                                <row valign="middle">
+                                    <entry align="center" valign="middle">2.</entry>
+                                    <entry align="center" valign="middle">Work and education</entry>
+                                    <entry align="left" valign="middle">
+                                        <ul id="ul_y2l_wrm_tzb">
+                                            <li>Add a workplace</li>
+                                            <li>Add college</li>
+                                            <li>Add high school</li>
+                                        </ul>
+                                    </entry>
+                                </row>
+                                <row valign="middle">
+                                    <entry align="center" valign="middle">3.</entry>
+                                    <entry align="center" valign="middle">Places lived</entry>
+                                    <entry align="left" valign="middle">
+                                        <ul id="ul_g5d_zrm_tzb">
+                                            <li>Add current city</li>
+                                            <li>Add hometown</li>
+                                            <li>Add city</li>
+                                        </ul>
+                                    </entry>
+                                </row>
+                                <row valign="middle">
+                                    <entry align="center" valign="middle">4.</entry>
+                                    <entry align="center" valign="middle">Contact and basic
+                                        info</entry>
+                                    <entry align="left" valign="middle">
+                                        <ul id="ul_mqp_fsm_tzb">
+                                            <li>Add a mobile number</li>
+                                            <li>Add an email address</li>
+                                            <li>Add a website</li>
+                                            <li>Add a social link</li>
+                                            <li>Add a language</li>
+                                            <li>Add gender</li>
+                                            <li>Add birth date and year</li>
+                                        </ul>
+                                    </entry>
+                                </row>
+                                <row valign="middle">
+                                    <entry align="center" valign="middle">5.</entry>
+                                    <entry align="center" valign="middle">Family and
+                                        relationships</entry>
+                                    <entry align="left" valign="middle">
+                                        <ul id="ul_fhv_lsm_tzb">
+                                            <li>Add a relationship status</li>
+                                            <li>Add family member</li>
+                                        </ul>
+                                    </entry>
+                                </row>
+                                <row valign="middle">
+                                    <entry align="center" valign="middle">6.</entry>
+                                    <entry align="center" valign="middle">Details about you</entry>
+                                    <entry align="left" valign="middle">
+                                        <ul id="ul_x3h_psm_tzb">
+                                            <li>Write some details about you</li>
+                                            <li>Add a name pronunciation</li>
+                                            <li>Add other names</li>
+                                            <li>Add favorite quotes</li>
+                                            <li>Add blood donation details</li>
+                                        </ul>
+                                    </entry>
+                                </row>
+                                <row valign="middle">
+                                    <entry align="center" valign="middle">7.</entry>
+                                    <entry align="center" valign="middle">Life events</entry>
+                                    <entry align="left" valign="middle">
+                                        <ul id="ul_ixv_13t_tzb">
+                                            <li>Add a life event</li>
+                                        </ul>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table><p>Your account is set up and you can use the Facebook web
+                        application.</p></li>
+            </ol>
+        </context>
+    </taskbody>
+</task>

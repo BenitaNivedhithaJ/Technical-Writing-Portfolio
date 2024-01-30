@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lhs_qbp_rzb">
+    <title>Facebook Web Application</title>
+    <conbody>
+        <section id="section_d2m_pfp_rzb">
+            <title>Introduction</title>
+            <p>Facebook is a social media platform that helps you connect with your friends and
+                family. Post your thoughts and daily updates on Facebook to grow your audience. You
+                can add people to your friends list, become a member of different groups, and follow
+                pages. The application offers you various features to perform multiple actions from
+                creating a post to selling products on Facebook marketplace. The privacy settings in
+                Facebook provides you options to choose the audience for your posts.</p>
+        </section>
+        <section id="section_uzw_sfp_rzb">
+            <title>Key features</title>
+            <p>The key featutres of the Facebook web application are mentioned in the table
+                below.</p>
+            <table frame="all" id="table_lmb_2gp_rzb">
+                <title>The list of features.</title>
+                <tgroup cols="4">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1.48*"/>
+                    <colspec colname="c2" colnum="3" colwidth="2.05*"/>
+                    <colspec colname="c3" colnum="4" colwidth="5.22*"/>
+                    <thead>
+                        <row>
+                            <entry>S.No</entry>
+                            <entry>Category</entry>
+                            <entry>Features</entry>
+                            <entry>Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>1</entry>
+                            <entry morerows="4">Create</entry>
+                            <entry><b>Post</b></entry>
+                            <entry>Create and share photo, video, GIF, and text posts. You can also
+                                create live videos using this feature.</entry>
+                        </row>
+                        <row>
+                            <entry>2</entry>
+                            <entry><b>Story</b></entry>
+                            <entry>Create a photo or text post and share it to your story. The story
+                                you share is visible for 24 hours.</entry>
+                        </row>
+                        <row>
+                            <entry>3</entry>
+                            <entry><b>Reel</b></entry>
+                            <entry>Create short video reels and post it.</entry>
+                        </row>
+                        <row>
+                            <entry>4</entry>
+                            <entry><b>Life event</b></entry>
+                            <entry> Create and share important life events such as starting a new
+                                job, graduating, and birth of a new child.</entry>
+                        </row>
+                        <row>
+                            <entry>5</entry>
+                            <entry><b>Marketplace listing</b></entry>
+                            <entry>Make a listing for the product you want to sell in Facebook
+                                marketplace.</entry>
+                        </row>
+                        <row>
+                            <entry>6</entry>
+                            <entry morerows="5">Social</entry>
+                            <entry><b>Events</b></entry>
+                            <entry>View the events posted, manage your events, and create new
+                                events.In addition, you can view the notifications of the scheduled
+                                events and friend’s birthdays.</entry>
+                        </row>
+                        <row>
+                            <entry>7</entry>
+                            <entry><b>Find Friends</b></entry>
+                            <entry>View friend requests, friend suggestions, friends list, and
+                                birthday notifications of your friends. You can create custom lists
+                                to add your friends to the created lists.</entry>
+                        </row>
+                        <row>
+                            <entry>8</entry>
+                            <entry><b>Groups</b></entry>
+                            <entry>View posts from the groups that you are a member of<b>, </b>join
+                                a group, and create a group.</entry>
+                        </row>
+                        <row>
+                            <entry>9</entry>
+                            <entry><b>News Feed</b></entry>
+                            <entry>View relevant posts of people and pages you follow.</entry>
+                        </row>
+                        <row>
+                            <entry>10</entry>
+                            <entry><b>Feeds</b></entry>
+                            <entry>View the recent posts of your friends, groups, and pages you
+                                follow.</entry>
+                        </row>
+                        <row>
+                            <entry>11</entry>
+                            <entry><b>Pages</b></entry>
+                            <entry>View different pages, pages you liked and pages you are invited
+                                to like. You can create a page to post updates about you or your
+                                brand for others to follow and stay connected. The feature is
+                                intended for artists, public figures, businesses, brands,
+                                organizations, and nonprofits.</entry>
+                        </row>
+                        <row>
+                            <entry>12</entry>
+                            <entry morerows="2">Entertainment</entry>
+                            <entry><b>Gaming video</b></entry>
+                            <entry>Follow streamers, games, clips, and videos. In addition, you can
+                                watch the live stream of games.</entry>
+                        </row>
+                        <row>
+                            <entry>13</entry>
+                            <entry><b>Play Games</b></entry>
+                            <entry>Play games of various categories. This feature allows you to save
+                                games and sends notifications when streamers you follow go
+                                live.</entry>
+                        </row>
+                        <row>
+                            <entry>14</entry>
+                            <entry><b>Video</b></entry>
+                            <entry>Watch live videos, reels, and shows. The videos are categorized
+                                so that you can watch the videos from your preferred
+                                category.</entry>
+                        </row>
+                        <row>
+                            <entry>15</entry>
+                            <entry morerows="1">Shopping</entry>
+                            <entry><b>Facebook Pay</b></entry>
+                            <entry>Use the feature to pay for different activities such as:<ul
+                                    id="ul_rns_thp_rzb">
+                                    <li>Making payments to friends and family.</li>
+                                    <li>Making donations to charities on Facebook.</li>
+                                    <li>Purchasing products in the marketplace.</li>
+                                    <li>Buying event tickets on Facebook.</li>
+                                    <li>Making in-app purchases.</li>
+                                </ul></entry>
+                        </row>
+                        <row>
+                            <entry>16</entry>
+                            <entry><b>Marketplace</b></entry>
+                            <entry>Buy or sell used and new products on Facebook
+                                marketplace.</entry>
+                        </row>
+                        <row>
+                            <entry>17</entry>
+                            <entry morerows="2">Personal</entry>
+                            <entry><b>Recent ad activity</b></entry>
+                            <entry>View the recently clicked ads and saved ads.</entry>
+                        </row>
+                        <row>
+                            <entry>18</entry>
+                            <entry><b>Memories</b></entry>
+                            <entry>View notifications of your old photos, videos, and posts. The
+                                feature allows you to choose how often you want to be notified about
+                                your memory.</entry>
+                        </row>
+                        <row>
+                            <entry>19</entry>
+                            <entry><b>Saved</b></entry>
+                            <entry>Find the photos, videos, and posts that you saved to view later. </entry>
+                        </row>
+                        <row>
+                            <entry>20</entry>
+                            <entry>Professional</entry>
+                            <entry><b>Ads Manager</b></entry>
+                            <entry>Create, manage, and monitor the performance of your ads.</entry>
+                        </row>
+                        <row>
+                            <entry>21</entry>
+                            <entry morerows="2">Community Resources</entry>
+                            <entry><b>Blood Donations</b></entry>
+                            <entry>Get notified about blood requirements from blood banks and donate
+                                blood. The feature also lets you plan and reminds you about blood
+                                donation.</entry>
+                        </row>
+                        <row>
+                            <entry>22</entry>
+                            <entry><b>Climate Science Center</b></entry>
+                            <entry>Get to know more about climate change and its effects. Follow
+                                organizations and get to know facts about climate change.</entry>
+                        </row>
+                        <row>
+                            <entry>23</entry>
+                            <entry><b>Fundraisers</b></entry>
+                            <entry>View fundraisers of various categories, choose a cause, and
+                                donate using the Fundraiser feature.</entry>
+                        </row>
+                        <row>
+                            <entry>24</entry>
+                            <entry>More from Meta</entry>
+                            <entry><b>Messenger kids</b></entry>
+                            <entry>Create and control a messenger kids account for your kid to
+                                connect with friends and family.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_xgq_53p_rzb">
+            <title>Benefits</title>
+            <p>Apart from connecting you with friends and family, Facebook provides other benefits
+                such as building communities, job search, candidate sourcing, and lead generation.
+                If you are a business owner, the application helps you build your brand and grow
+                your connections.</p>
+        </section>
+        <section id="section_xlg_wcm_tzb">
+            <p/>
+        </section>
+    </conbody>
+</concept>

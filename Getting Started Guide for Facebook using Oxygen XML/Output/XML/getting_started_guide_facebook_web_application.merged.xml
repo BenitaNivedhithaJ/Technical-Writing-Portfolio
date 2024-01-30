@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/getting_started_guide_facebook_web_application.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Getting Started Guide for Facebook Web Application</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Getting Started Guide for Facebook Web Application</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_em2_d3m_tzb"><resourceid appid="concept_em2_d3m_tzb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Get Started</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_pkq_q3m_tzb"><resourceid appid="task_pkq_q3m_tzb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Create a Facebook account</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="setup_account"><resourceid appid="setup_account" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Set up your account</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept_em2_d3m_tzb" oid="concept_em2_d3m_tzb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Get Started</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Perform the following actions to start using the Facebook web application:<ul class="- topic/ul " id="unique_1_Connect_42_ul_zxg_l3m_tzb" nd:nd-id="ul_zxg_l3m_tzb">
+                <li class="- topic/li ">Create an account.</li>
+                <li class="- topic/li ">Set up your account.</li>
+            </ul></p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="task_pkq_q3m_tzb" oid="task_pkq_q3m_tzb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Create a Facebook account</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You need an account to use the Facebook web application for the first time.</p>
+            <p class="- topic/p ">To create an account,</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Facebook login page, select <b class="+ topic/ph hi-d/b ">Create new account</b> to display the
+                        <b class="+ topic/ph hi-d/b ">Sign Up</b> dialogue box.<image align="left" class="- topic/image " dita-ot:image-width="536" dita-ot:image-height="684" href="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/Signup%20screen.png" id="unique_2_Connect_42_image_ozn_414_tzb" nd:nd-id="image_ozn_414_tzb" placement="break" scale="60"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the <b class="+ topic/ph hi-d/b ">Sign Up</b> dialogue box, enter the following details:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_2_Connect_42_ul_ess_lkm_tzb" nd:nd-id="ul_ess_lkm_tzb">
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">First name</b>: Enter your first name.</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Surname</b>: Enter your surname.</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Mobile number or email address</b>: Enter your mobile number or email
+                            address.</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">New password</b>: Enter a password.</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Date of birth</b>: Enter your date of birth using the date, month,
+                            and year dropdown.</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Gender</b>: Select an option from <b class="+ topic/ph hi-d/b ">Female</b>, <b class="+ topic/ph hi-d/b ">Male</b>, and
+                                <b class="+ topic/ph hi-d/b ">Custom</b>. If you select <b class="+ topic/ph hi-d/b ">Custom</b>, select an option from
+                            the <b class="+ topic/ph hi-d/b ">Select your pronoun </b>dropdown and enter your gender.<image align="left" class="- topic/image " dita-ot:image-width="627" dita-ot:image-height="340" href="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/Select%20Pronoun.png" id="unique_2_Connect_42_image_bmf_m14_tzb" nd:nd-id="image_bmf_m14_tzb" placement="break" scale="80"/><note class="- topic/note " id="unique_2_Connect_42_note_v32_llm_tzb" nd:nd-id="note_v32_llm_tzb" type="note">Entering your gender in the <b class="+ topic/ph hi-d/b ">Gender</b> field is
+                                optional.</note></li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Sign up</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the code sent in the confirmation dialogue box to confirm your email
+                    address or mobile number.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">(Optional) Select the <b class="+ topic/ph hi-d/b ">Send Email Again</b> option if you did not receive the
+                    code the first time.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">(Optional) Select <b class="+ topic/ph hi-d/b ">Send Message Again</b> if you entered your mobile
+                    number.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Continue</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Instead, if you want to update the contact information, perform the following
+                    steps:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol " id="unique_2_Connect_42_ol_j1g_vmm_tzb" nd:nd-id="ol_j1g_vmm_tzb">
+                        <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">Update Contact Info</b>.</li>
+                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Add email address or mobile number</b> dialogue box, enter
+                            your email address or phone number. <image align="left" class="- topic/image " dita-ot:image-width="746" dita-ot:image-height="293" href="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/Screenshot%202023-11-10%20112925.png" id="unique_2_Connect_42_image_ewj_qb4_tzb" nd:nd-id="image_ewj_qb4_tzb" placement="break" scale="60"/></li>
+                        <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">Add</b>.<p class="- topic/p " dir="ltr">Now, you can verify using the email
+                                address or phone number that you recently added.</p></li>
+                    </ol>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the <b class="+ topic/ph hi-d/b ">Account confirmed</b> dialogue box, click <b class="+ topic/ph hi-d/b ">Ok</b>. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="setup_account" oid="setup_account" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Set up your account</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You need to perform some actions to keep your account updated and let others find you
+                on Facebook. </p>
+            <p class="- topic/p ">To set up your account,</p>
+            <ol class="- topic/ol " id="unique_3_Connect_42_ol_mr2_lpm_tzb" nd:nd-id="ol_mr2_lpm_tzb">
+                <li class="- topic/li " dir="ltr">
+                    <p class="- topic/p " dir="ltr">On the left pane of the Facebook homepage, select your name.</p>
+                </li>
+                <li class="- topic/li ">In your profile screen, select <b class="+ topic/ph hi-d/b ">Edit profile</b> to display the <b class="+ topic/ph hi-d/b ">Edit
+                        profile</b> screen.<image align="left" class="- topic/image " dita-ot:image-width="294" dita-ot:image-height="735" href="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/Edit%20profile%20screen.png" id="unique_3_Connect_42_image_nwq_cqm_tzb" nd:nd-id="image_nwq_cqm_tzb" placement="break"/></li>
+                <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Edit profile</b> screen, you can perform the following tasks:<ul class="- topic/ul " id="unique_3_Connect_42_ul_ps5_2qm_tzb" nd:nd-id="ul_ps5_2qm_tzb">
+                        <li class="- topic/li ">Add your profile picture.</li>
+                        <li class="- topic/li ">Add your cover photo.</li>
+                        <li class="- topic/li ">Create your avatar.</li>
+                        <li class="- topic/li ">Add your biography.</li>
+                        <li class="- topic/li ">Add your introduction.</li>
+                        <li class="- topic/li ">Add your hobbies.</li>
+                        <li class="- topic/li ">Feature your favourite photos and stories.</li>
+                    </ul></li>
+                <li class="- topic/li ">Click  <b class="+ topic/ph hi-d/b ">Edit your About info </b>to add information about you such as
+                    workplace, school, college, hometown, and relationship status.<image align="left" class="- topic/image " dita-ot:image-width="679" dita-ot:image-height="462" href="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/About%20your%20info.png" id="unique_3_Connect_42_image_tmc_s14_tzb" nd:nd-id="image_tmc_s14_tzb" placement="break" scale="60"/>Add details about you in each section as mentioned
+                    in the table below.<table class="- topic/table " colsep="1" frame="all" id="unique_3_Connect_42_table_xhl_qrm_tzb" nd:nd-id="table_xhl_qrm_tzb" rowsep="1">
+                        <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Edit About Info</ph></title>
+                        <tgroup align="center" class="- topic/tgroup " cols="3">
+                            <colspec align="center" class="- topic/colspec " colname="col1" colnum="1" colsep="1" colwidth="1*" rowsep="1" xtrc="colspec:1;37:49" xtrf="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/setup_account.dita" style="width:17.5131%;"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.81*" xtrc="colspec:2;38:80" xtrf="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/setup_account.dita" style="width:31.6988%;"/>
+                            <colspec align="left" class="- topic/colspec " colname="col3" colnum="3" colsep="1" colwidth="2.9*" rowsep="1" xtrc="colspec:3;40:45" xtrf="file:/C:/Users/leona/OneDrive/Documents/Benita/TWT/Dita%20portfolio/setup_account.dita" style="width:50.7881%;"/>
+                            <tbody class="- topic/tbody ">
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">S. No</b></entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" valign="middle"><b class="+ topic/ph hi-d/b ">Sections</b></entry><entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="middle"><b class="+ topic/ph hi-d/b ">Details</b></entry></row>
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" valign="middle">1.</entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" valign="middle">Overview</entry><entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" valign="middle">
+                                        <ul class="- topic/ul " id="unique_3_Connect_42_ul_mt3_srm_tzb" nd:nd-id="ul_mt3_srm_tzb">
+                                            <li class="- topic/li ">Add a workplace</li>
+                                            <li class="- topic/li ">Add high school</li>
+                                            <li class="- topic/li ">Add college</li>
+                                            <li class="- topic/li ">Add current city</li>
+                                            <li class="- topic/li ">Add hometown</li>
+                                            <li class="- topic/li ">Add a relationship status</li>
+                                        </ul>
+                                    </entry></row>
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" valign="middle">2.</entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" valign="middle">Work and education</entry><entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" valign="middle">
+                                        <ul class="- topic/ul " id="unique_3_Connect_42_ul_y2l_wrm_tzb" nd:nd-id="ul_y2l_wrm_tzb">
+                                            <li class="- topic/li ">Add a workplace</li>
+                                            <li class="- topic/li ">Add college</li>
+                                            <li class="- topic/li ">Add high school</li>
+                                        </ul>
+                                    </entry></row>
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" valign="middle">3.</entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" valign="middle">Places lived</entry><entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" valign="middle">
+                                        <ul class="- topic/ul " id="unique_3_Connect_42_ul_g5d_zrm_tzb" nd:nd-id="ul_g5d_zrm_tzb">
+                                            <li class="- topic/li ">Add current city</li>
+                                            <li class="- topic/li ">Add hometown</li>
+                                            <li class="- topic/li ">Add city</li>
+                                        </ul>
+                                    </entry></row>
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" valign="middle">4.</entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" valign="middle">Contact and basic
+                                        info</entry><entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" valign="middle">
+                                        <ul class="- topic/ul " id="unique_3_Connect_42_ul_mqp_fsm_tzb" nd:nd-id="ul_mqp_fsm_tzb">
+                                            <li class="- topic/li ">Add a mobile number</li>
+                                            <li class="- topic/li ">Add an email address</li>
+                                            <li class="- topic/li ">Add a website</li>
+                                            <li class="- topic/li ">Add a social link</li>
+                                            <li class="- topic/li ">Add a language</li>
+                                            <li class="- topic/li ">Add gender</li>
+                                            <li class="- topic/li ">Add birth date and year</li>
+                                        </ul>
+                                    </entry></row>
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" valign="middle">5.</entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" valign="middle">Family and
+                                        relationships</entry><entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" valign="middle">
+                                        <ul class="- topic/ul " id="unique_3_Connect_42_ul_fhv_lsm_tzb" nd:nd-id="ul_fhv_lsm_tzb">
+                                            <li class="- topic/li ">Add a relationship status</li>
+                                            <li class="- topic/li ">Add family member</li>
+                                        </ul>
+                                    </entry></row>
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" valign="middle">6.</entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" valign="middle">Details about you</entry><entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" valign="middle">
+                                        <ul class="- topic/ul " id="unique_3_Connect_42_ul_x3h_psm_tzb" nd:nd-id="ul_x3h_psm_tzb">
+                                            <li class="- topic/li ">Write some details about you</li>
+                                            <li class="- topic/li ">Add a name pronunciation</li>
+                                            <li class="- topic/li ">Add other names</li>
+                                            <li class="- topic/li ">Add favorite quotes</li>
+                                            <li class="- topic/li ">Add blood donation details</li>
+                                        </ul>
+                                    </entry></row>
+                                <row class="- topic/row " valign="middle"><entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" valign="middle">7.</entry><entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" valign="middle">Life events</entry><entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" valign="middle">
+                                        <ul class="- topic/ul " id="unique_3_Connect_42_ul_ixv_13t_tzb" nd:nd-id="ul_ixv_13t_tzb">
+                                            <li class="- topic/li ">Add a life event</li>
+                                        </ul>
+                                    </entry></row>
+                            </tbody>
+                        </tgroup>
+                    </table><p class="- topic/p ">Your account is set up and you can use the Facebook web
+                        application.</p></li>
+            </ol>
+        </context>
+    </taskbody>
+</task></concept></map>
