@@ -136,12 +136,8 @@ To create a video post,
         *    **Choose from video**: Choose a still from the video to set as thumbnail image.
 
     * **Add Captions**
-  
-<<<<<<< HEAD:Quick Start Guide for Facebook/Facebook.README.md
         Select the **Upload captions** dropdown and click the **Upload** button to upload the caption files from your device.
-=======
-       Select the **Upload captions** dropdown and click the **Upload** button to upload the caption files from your device.
->>>>>>> 94a9c3e70520da4717bc56289ab3ad01f07a7273:Facebook/Facebook.README.md
+      
 7.   Select **Save**.
 8.   Select **Post**.
 
