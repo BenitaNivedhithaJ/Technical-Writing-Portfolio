@@ -57,11 +57,11 @@ Perform the steps below to set the privacy settings for your post.
 1. In the menu, select **Post** to display the **Create post** screen.
    
    
-   ![Create Post screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Create%20post%20screen.png)
+   ![Create Post screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/Create%20post%20screen.png?raw=true))
 2. Select the Privacy Settings dropdown below your profile name to choose an option.
 
     The Post Audience dialogue box is displayed.
-    ![Privacy Settings](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Privacy%20settings.png)
+    ![Privacy Settings](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/Privacy%20settings.png?raw=true)
 
 3. In the **Post Audience** dialogue box, choose one of the following options:
 
