@@ -24,17 +24,12 @@ To set up your account,
 
     Add details about you in each section as mentioned in the table below.
 
-    | **S. No** | **Sections** | **Details** |
-    
-    | 1. | Overview |    - Add a workplace Add high school    -Add college    -Add current city    -Add hometown    -Add a relationship status |
-
-    |
-    |
-    |
-
-    |2.|Work and education|    -   Add a workplace
-                               -   Add college
-                               -   Add high school |
+**S. No** | **Sections** | **Details** 
+------|------|------
+1. | Overview |    * Add a workplace Add high school    * Add college    * Add current city    * Add hometown    * Add a relationship status
+2.| Work and education |    *  Add a workplace    * Add college    * Add high school
+                           
+                               -    |
 
 
     |3.|Places lived|    -   Add current city
