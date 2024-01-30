@@ -1,4 +1,4 @@
-# Set up your account {#setup_account .task}
+# Set up your account
 
 You need to perform some actions to keep your account updated and let others find you on Facebook.
 
@@ -8,7 +8,7 @@ To set up your account,
 
 2.  In your profile screen, select **Edit profile** to display the **Edit profile** screen.
 
-    ![](Edit%20profile%20screen.png)
+    ![Edit Profile screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Getting%20Started%20Guide%20for%20Facebook%20using%20Oxygen%20XML/Images/Edit%20profile%20screen.png)
 
 3.  In the **Edit profile** screen, you can perform the following tasks:
     -   Add your profile picture.
@@ -20,7 +20,7 @@ To set up your account,
     -   Feature your favourite photos and stories.
 4.  Click **Edit your About info**to add information about you such as workplace, school, college, hometown, and relationship status.
 
-    ![](About%20your%20info.png)
+    ![About your info](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Getting%20Started%20Guide%20for%20Facebook%20using%20Oxygen%20XML/Images/About%20your%20info.png)
 
     Add details about you in each section as mentioned in the table below.
 
