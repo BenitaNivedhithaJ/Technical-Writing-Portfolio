@@ -27,7 +27,7 @@ The Post feature lets you share your thoughts with your facebook audience. Faceb
 
 With the Post feature, you can create different types of posts such as text, photo, video, GIF, live video, feeling/activity, check in, life events, and tag people.
 
-![Post types](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Facebook/Images/Post%20types.png)
+![Post types](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/Post%20types.png?raw=true)
 
 
  Types | Purpose
