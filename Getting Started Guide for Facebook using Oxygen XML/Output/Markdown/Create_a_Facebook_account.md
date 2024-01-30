@@ -6,7 +6,7 @@ To create an account,
 
 1.  In the Facebook login page, select **Create new account** to display the **Sign Up** dialogue box.
 
-    ![](Signup%20screen.png)
+    ![Sign up screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Getting%20Started%20Guide%20for%20Facebook%20using%20Oxygen%20XML/Images/Signup%20screen.png))
 
 2.  In the **Sign Up** dialogue box, enter the following details:
 
@@ -17,7 +17,7 @@ To create an account,
     -   **Date of birth**: Enter your date of birth using the date, month, and year dropdown.
     -   **Gender**: Select an option from **Female**, **Male**, and **Custom**. If you select **Custom**, select an option from the **Select your pronoun**dropdown and enter your gender.
 
-        ![](Select%20Pronoun.png)
+        ![Select Pronoun](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Getting%20Started%20Guide%20for%20Facebook%20using%20Oxygen%20XML/Images/Select%20Pronoun.png)
 
         **Note:** Entering your gender in the **Gender** field is optional.
 
@@ -36,7 +36,7 @@ To create an account,
     1.  Click **Update Contact Info**.
     2.  In the **Add email address or mobile number** dialogue box, enter your email address or phone number.
 
-        ![](Screenshot%202023-11-10%20112925.png)
+        ![Add email address](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Getting%20Started%20Guide%20for%20Facebook%20using%20Oxygen%20XML/Images/Select%20Pronoun.png))
 
     3.  Click **Add**.
 
