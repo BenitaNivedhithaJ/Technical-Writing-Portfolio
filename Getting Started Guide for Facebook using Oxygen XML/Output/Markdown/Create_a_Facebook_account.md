@@ -1,4 +1,4 @@
-# Create a Facebook account {#task_pkq_q3m_tzb .task}
+# Create a Facebook account
 
 You need an account to use the Facebook web application for the first time.
 
