@@ -1,4 +1,4 @@
-# Get Started {#concept_em2_d3m_tzb .concept}
+# Get Started
 
 Perform the following actions to start using the Facebook web application:
 
