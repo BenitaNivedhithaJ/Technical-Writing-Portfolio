@@ -57,7 +57,7 @@ Perform the steps below to set the privacy settings for your post.
 1. In the menu, select **Post** to display the **Create post** screen.
    
    
-   ![Create Post screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/Create%20post%20screen.png?raw=true))
+   ![Create Post screen](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/Create%20post%20screen.png?raw=true)
 2. Select the Privacy Settings dropdown below your profile name to choose an option.
 
     The Post Audience dialogue box is displayed.
@@ -91,7 +91,7 @@ Now, you have posted a text post.
 To create a photo post,
 1. In the Create post screen, type the text in the **What’s on your mind** field.
 2. (Optional)Select ![emoji](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/Emoji.png?raw=true) to add emojis to you text post.
-3. Select ![image](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/PhotoVideo.png?raw=true)) to display the **Add Photos/Videos** section.
+3. Select ![image](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/PhotoVideo.png?raw=true) to display the **Add Photos/Videos** section.
 4. Click the **Add Photos/Videos** section to browse your device to add photos.
 
     ![Add photos/videos](https://github.com/BenitaNivedhithaJ/Technical-Writing-Portfolio/blob/main/Quick%20Start%20Guide%20for%20Facebook/Images/Add%20photos%20or%20videos.png?raw=true)
