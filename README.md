@@ -1,5 +1,5 @@
 # Technical-Writing-Portfolio
-Hi. In this repository you will find some of the sample documents that I created.
+Hi. In this repository you will find some of the sample documents that I created. I have created the sample documents using the knowledge that I gained through my work experience and courses that I attended during my career break.
 
 The following table displays the list of sample documents:
 Documents | Topics | Tools or languages used
