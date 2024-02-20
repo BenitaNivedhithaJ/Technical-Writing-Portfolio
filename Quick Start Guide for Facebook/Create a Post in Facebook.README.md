@@ -1,7 +1,5 @@
 # Create a Post using Facebook Web Application
 
-
-- [Create a Post using Facebook Web Application](#create-a-post-using-facebook-web-application)
 - [Understand Create Post](#understand-create-post)
   - [Overview](#overview)
   - [Types of Post](#types-of-post)
